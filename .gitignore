@@ -1,0 +1,18 @@
+
+# Generated extension builds
+dist/
+
+# Packaged extensions
+*.crx
+*.xpi
+
+# Private signing keys
+*.pem
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Operating system files
+.DS_Store
+Thumbs.db
